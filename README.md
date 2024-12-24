@@ -1,4 +1,4 @@
-Hacktiv8 - Milestone 2 Project
+**Hacktiv8 - Milestone 2 Project**
 
 - by Verren Monica
 - Phase 1
