@@ -1,0 +1,2 @@
+url dataset: https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
+url deployment: https://huggingface.co/spaces/verrenmo/hacktiv8-milestoneproject
