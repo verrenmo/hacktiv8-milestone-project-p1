@@ -29,8 +29,8 @@ This project applies **various classification algorithms** and evaluates them us
 🌍 [Deployment Link](https://huggingface.co/spaces/verrenmo/hacktiv8-milestoneproject)
 
 ## 📊 **Notebooks**  
-📌 **EDA & Modeling** – Data exploration, preprocessing, and model training.  
-📌 **Model Inference** – Deploying the best model for real-world predictions.  
+📌 **[P1M2_verrenmonica.ipynb](https://github.com/verrenmo/hacktiv8-milestone-project-p1/blob/main/P1M2_verrenmonica.ipynb)** – Exploratory Data Analysis (EDA) & Model Training.  
+📌 **[P1M2_verrenmonica_inf.ipynb](https://github.com/verrenmo/hacktiv8-milestone-project-p1/blob/main/P1M2_verrenmonica_inf.ipynb)** – Model Inference.  
 
 ## 🛠️ **Tools & Libraries**  
 
@@ -57,4 +57,4 @@ This project applies **various classification algorithms** and evaluates them us
 ✅ **More accurate creditworthiness assessment**, leading to better decision-making.  
 
 ## 🔗 **Let's Connect!**  
-💼 [LinkedIn](https://www.linkedin.com/in/verrenmonica)  
+💼 [LinkedIn](https://www.linkedin.com/in/verren-monica/)
